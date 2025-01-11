@@ -1,4 +1,4 @@
-import Testcard from "@/components/ui/testcard";
+import Testcard from "../components/ui/Testcard";
 import React from "react";
 
 const Home = () => {
